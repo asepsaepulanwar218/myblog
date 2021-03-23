@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('../font/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('../font/kaushanscript-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.jumbotron {
+    background-image: url(../img/hero2.jpg);
+    background-position: 0px -150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron h1, .jumbotron p {
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    color: azure;
+}
+
+.jumbotron, .navbar-brand, h1, h2 {
+    font-family: 'kaushan_scriptregular';
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section {
+    min-height: 300px;
+}
