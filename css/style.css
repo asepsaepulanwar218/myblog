@@ -20,7 +20,7 @@
     color: azure;
 }
 
-.jumbotron, .navbar-brand, h1, h2 {
+.jumbotron, .navbar-brand, h1, h2, h5 {
     font-family: 'kaushan_scriptregular';
 }
 
