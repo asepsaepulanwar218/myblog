@@ -15,7 +15,7 @@
     background-attachment: fixed;
 }
 
-.jumbotron h5, .jumbotron p {
+.jumbotron h5, .jumbotron p, .jumbotron h1 {
 	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
     color: azure;
 }
@@ -30,4 +30,9 @@ p {
 
 section {
     min-height: 300px;
+}
+
+.pan {
+    width: 10px;
+    height: 10px;
 }
